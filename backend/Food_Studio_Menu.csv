@@ -1,0 +1,189 @@
+Category,Subtitle,Name,Description,Price,Tags
+REFRESHING BEVERAGES,SIP ON IT,ORANGE MINT,Sweet and tangy orange juice with a hint of mint.,155,
+REFRESHING BEVERAGES,SIP ON IT,VIRGIN MOJITO,"Fresh mint leaves muddled with lime wedges, topped  with sparkling soda water and a dash of sweetness.",149,
+REFRESHING BEVERAGES,SIP ON IT,STUDIO SPECIAL SPICY KIWI,"Spicy, sweet and sour margarita with Kiwi and Mint.",149,Studio Special
+REFRESHING BEVERAGES,SIP ON IT,BLUE LAGOON,Sinfully blended blue curacao and lemonade topped with ice cubes.,139,
+REFRESHING BEVERAGES,SIP ON IT,MANGO TANGO MOJITO,Succulent mango mingles with zesty lime and mint for a refreshing twist on a classic mocktail.,149,Studio Special
+REFRESHING BEVERAGES,SIP ON IT,LEMON ICED TEA,"Zesty lemons and brewed tea, served over ice for a refreshing delight. Balancing citrus tang with soothing.",145,
+REFRESHING BEVERAGES,SIP ON IT,PEACH ICED TEA,"Peach-infused tea with a zesty twist of fresh lemon, a tantalizing fusion of fruity and citrusy goodness.",155,Studio Special
+REFRESHING BEVERAGES,SIP ON IT,FRESH LIME SODA,Fresh lime juice delightfully mixed into chilled soda. Mixed /Salted/Sweet.,75,
+REFRESHING BEVERAGES,SIP ON IT,FRESH LIME WATER,"Classic, zesty mix of fresh lime juice in chilled water. Mixed /Salted/Sweet.",65,
+REFRESHING BEVERAGES,SIP ON IT,MASALA COLD DRINK,"Chilled, refreshing soft drinks with a twist of Indian spices. Choice of available flavours.",85,
+REFRESHING BEVERAGES,SIP ON IT,PACKAGED DRINKING WATER,MRP + Establishment Cost.,20,
+REFRESHING BEVERAGES,SIP ON IT,SOFT DRINK,Choice of available flavours.,59,
+SOUP & CRUNCHES,SOUP,SWEET CORN SOUP,"Tender corn kernels, spices and herbs in a delightful chinese broth.",145,Non-veg
+SOUP & CRUNCHES,SOUP,SWEET CORN SOUP,"Tender corn kernels, spices and herbs in a delightful chinese broth.",125,Veg
+SOUP & CRUNCHES,SOUP,MANCHOW SOUP,"Crunchy vegetables in a spicy chinese flavoured onion, garlic, ginger broth, topped with fried noodles.",150,Non-veg
+SOUP & CRUNCHES,SOUP,MANCHOW SOUP,"Crunchy vegetables in a spicy chinese flavoured onion, garlic, ginger broth, topped with fried noodles.",125,Veg
+SOUP & CRUNCHES,SOUP,LEMON CORIANDER SOUP,Oriental clear soup with a twist of fresh coriander leaves and a dash of lemon juice.,145,Non-veg
+SOUP & CRUNCHES,SOUP,LEMON CORIANDER SOUP,Oriental clear soup with a twist of fresh coriander leaves and a dash of lemon juice.,125,Veg
+SOUP & CRUNCHES,SOUP,HOT AND SOUR SOUP,A spicy and tangy broth with mixed vegetables and a hint of pepper.,150,"Chilli, Non-veg"
+SOUP & CRUNCHES,SOUP,HOT AND SOUR SOUP,A spicy and tangy broth with mixed vegetables and a hint of pepper.,125,"Chilli,Veg"
+CRUNCHY MUNCHY  ,CRUNCHES,FISH FINGER,"Deep fried batter coated fish strips, served with sweet chilli sauce.",349,Non-veg
+CRUNCHY MUNCHY  ,CRUNCHES,CRISPY WINGS,Chicken wings tossed in a spicy condiment and golden fried until perfection.,299,"Non-veg, Chilli"
+CRUNCHY MUNCHY  ,CRUNCHES,VEG SPRING ROLL,"Crunchy, savoury vegetables rolled in a pastry sheet, deep fried and served with a sweet chili dip.",209,Veg
+CRUNCHY MUNCHY  ,CRUNCHES,FRENCH FRY,Deep-fried potato fingers crispy outside and fluffy inside.,149,"Veg, Kid's Loves It"
+CRUNCHY MUNCHY  ,CRUNCHES,FISH AND CHIPS,"Boneless fish strips, dipped in a crispy batter and deep fried until golden, served with deep fried potato fingers.",369,Non-veg
+CRUNCHY MUNCHY  ,CRUNCHES,CRISPY CHICKEN STRIPS,"Tender, golden-brown Chicken Strips, Crispy on the outside, juicy on the inside.",305,Non-veg
+CRUNCHY MUNCHY  ,CRUNCHES,LOADEED CHICKEN FRENCH FRY,"Topped with tantalizing chicken popcorn, drizzled with creamy mayo sauce and zesty tandoori mayo.",299,Non-veg
+FEEL THE FILLING  ,MOMO & DUMPLINGS,STEAM MOMO,"Momo stuffed with mix of soft juicy boneless chicken, onion & coriander cooked in blend of herbs and tinch of spices.",160,Non-veg
+FEEL THE FILLING  ,MOMO & DUMPLINGS,STEAM MOMO,"Momo stuffed with mix of soft juicy boneless chicken, onion & coriander cooked in blend of herbs and tinch of spices.",140,Veg
+FEEL THE FILLING  ,MOMO & DUMPLINGS,FRIED MOMO,"Deep fried dumplings with a flavourful spicy filling, served with chilli dip.",160,"Non-veg,Chilli"
+FEEL THE FILLING  ,MOMO & DUMPLINGS,FRIED MOMO,"Deep fried dumplings with a flavourful spicy filling, served with chilli dip.",140,"Veg, Chilli"
+FEEL THE FILLING  ,MOMO & DUMPLINGS,PAN FRIED MOMO,Fried momo sautéed in hot schezwan sauce.,175,"Non-veg, Chilli"
+FEEL THE FILLING  ,MOMO & DUMPLINGS,PAN FRIED MOMO,Fried momo sautéed in hot schezwan sauce.,155,"Veg, Chilli"
+FEEL THE FILLING  ,MOMO & DUMPLINGS,FRIED CHEESY MOMO,"Chef's special crispy fried dumplings, stuffed with a savoury filling, and coated in a rich, creamy and cheesy sauce.",175,"Non-veg, Studio Special"
+FEEL THE FILLING  ,MOMO & DUMPLINGS,FRIED CHEESY MOMO,"Chef's special crispy fried dumplings, stuffed with a savoury filling, and coated in a rich, creamy and cheesy sauce.",155,"Veg, Studio Special"
+GRILLED & TANDOOR,TANDOORI VEG DELIGHT,HARA BHARA SEEKH KEBAB,"Tandoor grilled spinach, peas and potatoes patties.",245,Veg
+GRILLED & TANDOOR,TANDOORI VEG DELIGHT,PANEER SUFIANA MALAI,"Rich, creamy cottage cheese in a mildly flavoured marinade, cooked on clay oven spices.",295,Veg
+GRILLED & TANDOOR,TANDOORI VEG DELIGHT,PANEER TIKKA,"Cottage cheese, capsicum, tomato and onion, spice coated and charred on traditional Indian clay oven.",275,Veg
+GRILLED & TANDOOR,TANDOORI VEG DELIGHT,PANEER PAHADI,"Tandoor grilled cottage cheese, in a spicy green marinade of fresh mint, coriander leaves, ginger garlic and green chillies.",285,"Veg, Chilli"
+ORIENTAL APPETIZERS,VEGGIE SENSATION,CRISPY CHILLI BABY CORN,"Crispy baby corn in plum sauce with onions, garlic, green chilies for spicy-sweet indulgence.",249,"Veg, Chilli"
+ORIENTAL APPETIZERS,VEGGIE SENSATION,AMERICAN CORN SALT & PEPPER,"Crispy, batter fried corn kernels, vegetables and onions tossed in mild spices and a dash of pepper.",259,Veg
+ORIENTAL APPETIZERS,VEGGIE SENSATION,MUSHROOM & BABYCORN PEPPER SALT,"Sautéed garlic, tender baby corn, crispy mushrooms, seasoned with pepper, garlic.",269,Veg
+ORIENTAL APPETIZERS,VEGGIE SENSATION,WOK TOSSED CHILLI PANEER DRY,"Golden fried cottage cheese, capsicum and onion, tossed in chinese sauce.",265,"Veg, Chilli"
+ORIENTAL APPETIZERS,VEGGIE SENSATION,HONEY BABY CORN,"Baby corn coated in batter, deep fried and tossed in honey & sweet sauce.",259,Veg
+ORIENTAL APPETIZERS,VEGGIE SENSATION,VEG MANCHURIAN DRY,"Deep fried balls of crunchy vegetables in a crispy batter, stirred in a thick, sweet and savoury sauce.",235,Veg
+ORIENTAL APPETIZERS,VEGGIE SENSATION,PAN FRIED CHILLI MUSHROOM,"Batter fried mushroom, bell pepper, onion and scallions in a flavourful sauce.",235,"Veg, Chilli"
+TANDOOR KEBABS,GRILLED CHICKEN FLAVOR,MURG TENGRI 2pcs,Clay oven grilled chicken drumsticks treated in a spicy marinade.,235,"Non-veg, Chilli"
+TANDOOR KEBABS,GRILLED CHICKEN FLAVOR,MURG TENGRI 4pcs,Clay oven grilled chicken drumsticks treated in a spicy marinade.,419,"Non-veg, Chilli"
+TANDOOR KEBABS,GRILLED CHICKEN FLAVOR,MURG TIKKA,Traditionally marinated spicy chicken pieces grilled over charcoal fire.,275,"Non-veg, Chilli"
+TANDOOR KEBABS,GRILLED CHICKEN FLAVOR,MURG HARIYALI,"Juicy chicken chunks in a sweet and creamy marinade, grilled to a silky texture.",295,Non-veg
+TANDOOR KEBABS,GRILLED CHICKEN FLAVOR,MURG RESHMI,"Juicy chicken chunks in a sweet and creamy marinade, grilled to a silky texture.",285,Non-veg
+TANDOOR KEBABS,GRILLED CHICKEN FLAVOR,MURG TANDOORI HALF,"The King of all kebabs, spiced whole / half chicken with bone, finished and roasted on clay oven until perfection.",299,"Non-veg, Studio Special"
+TANDOOR KEBABS,GRILLED CHICKEN FLAVOR,MURG TANDOORI FULL,"The King of all kebabs, spiced whole / half chicken with bone, finished and roasted on clay oven until perfection.",549,"Non-veg, Studio Special"
+TANDOOR KEBABS,GRILLED CHICKEN FLAVOR,MURG MALAI,"Tandoor grilled chicken pieces marinated in a melange of cream cheese, ginger garlic.",315,Non-veg
+TANDOOR KEBABS,GRILLED CHICKEN FLAVOR,MURG JAIPURI TIKKA,"Tender chicken chunks in a rich, creamy, bright yellow marinade of kasturi and mustard, grilled on a clay oven and garnished with broken papad.",315,Non-veg
+ORIENTAL APPETIZERS,ZESTY CHICKEN ZING,SESAME HONEY CHICKEN,"Batter fried chicken, tossed in sweet and savoury honey-based sauce, sprinkled with sesame seeds.",295,Non-veg
+ORIENTAL APPETIZERS,ZESTY CHICKEN ZING,DRAGON CHICKEN,"Batter-fried crispy, crunchy chicken strips, which are tossed in a spicy, sweet, and sour sauce along with bell pepper.",299,"Non-veg, Chilli"
+ORIENTAL APPETIZERS,ZESTY CHICKEN ZING,PAN FRIED CHILLI CHICKEN,"Pan fried chicken with garlic, onions and green chillies.",299,"Non-veg, Chilli"
+ORIENTAL APPETIZERS,ZESTY CHICKEN ZING,DRUMS OF HEAVEN,"Crispy, golden fried chicken lollipops tossed in a thick sweet and spicy sauce.",329,"Non-veg, Chilli"
+ORIENTAL APPETIZERS,ZESTY CHICKEN ZING,CHILLI PLUM CHICKEN,Succulent chicken with vibrant veggies in a sweet plum sauce.,295,"Non-veg, Chilli"
+ORIENTAL APPETIZERS,ZESTY CHICKEN ZING,WINGS OF FIRE,"Crispy fried batter coated chicken wings, tossed in a fiery hot Chinese sauce with Sichuan pepper.",315,"Non-veg, Chilli"
+ORIENTAL APPETIZERS,ZESTY CHICKEN ZING,DRY CHILLI CHICKEN,Crispy chicken fritters with bell pepper and scallions in flavoursome soy sauce.,289,"Non-veg, Chilli"
+ ORIENTAL APPETIZERS,SEA FOOD,PAN FRIED CHILLI FISH,Chef's special marinated fish fillet and cubed bell pepper stirred in a flavourful Chinese sauce.sesame seeds.,405,"Non-veg, Chilli"
+ ORIENTAL APPETIZERS,SEA FOOD,BUTTER GARLIC PRAWN,"Succulent freshwater prawns and chopped garlic, cooked in butter and tossed with lemon juice and chilli flakes.",469,Non-veg
+ ORIENTAL APPETIZERS,SEA FOOD,PUNJABI TEEKHI MACCHI,Fish coated in a traditional Punjabi fiery spice mix and grilled to perfection.,355,"Non-veg, Chilli"
+ ORIENTAL APPETIZERS,SEA FOOD,SUGANDHI MAHI,"Awadhi style grilled fish marinated with yogurt, handpicked spices and a dash of 'Gandharaj Lebu'.",395,Non-veg
+ ORIENTAL APPETIZERS,SEA FOOD,PRAWN TANDOORI,"Chef's special spicy marinated prawns, tandoor grilled until tender and smokey.",425,"Non-veg, Chilli"
+STUDIO SPECIAL,,STUDIO ASSORTED KEBAB PLATTER,"Juicy chicken kebabs, three varieties (9 pcs), succulent fish or prawn kebabs(2 pieces) flavourful chicken tengri(2 pieces) or chicken tandoori kebab(1 piece).",625,"Studio Special, Non-veg"
+STUDIO SPECIAL,RICE,STUDIO SPECIAL FRIED RICE,"Special fried rice in spicy chili sauce with baby corn, broccoli, mushroom, chicken, shrimp, wrapped in egg.",305,"Studio Special, Non-veg, Chilli"
+STUDIO SPECIAL,NOODLES,STUDIO SPECIAL NOODLE,"Our Chef's Special stir-fried noodles in spicy chili sauce with chicken, prawn, assorted veggies, and wrapped in egg.",295,"Studio Special, Non-veg, Chilli"
+STUDIO SPECIAL,RICE,MIXED MALAYSIAN PINEAPPLE RICE,"Combination of sweet, caramelized pineapple with Thai spices.",295,"Studio Special, Non-veg"
+STUDIO SPECIAL,RICE,CHICKEN MALAYSIAN PINEAPPLE RICE,"Combination of sweet, caramelized pineapple with Thai spices.",265,"Studio Special, Non-veg"
+STUDIO SPECIAL,RICE,VEG MALAYSIAN PINEAPPLE RICE,"Combination of sweet, caramelized pineapple with Thai spices.",205,"Studio Special, Veg"
+TANGLED & TASTY,RICE,MIXED FRIED RICE,"Wok tossed rice sauted with prawns, chicken, eggs and seasonal vegetables.",245,Non-veg
+TANGLED & TASTY,RICE,CHICKEN FRIED RICE,"Wok tossed rice sauted with prawns, chicken, eggs and seasonal vegetables.",215,Non-veg
+TANGLED & TASTY,RICE,VEG FRIED RICE,"Wok tossed rice sauted with prawns, chicken, eggs and seasonal vegetables.",165,veg
+TANGLED & TASTY,RICE,MIXED CHILLI GARLIC RICE,"Rice with carrot, american corn & beans tossed in chilli paste, tomato ketchup flavoured with chopped garlic.",265,"Non-veg, Chilli"
+TANGLED & TASTY,RICE,CHICKEN CHILLI GARLIC RICE,"Rice with carrot, american corn & beans tossed in chilli paste, tomato ketchup flavoured with chopped garlic.",235,"Non-veg, Chilli"
+TANGLED & TASTY,RICE,VEG CHILLI GARLIC RICE,"Rice with carrot, american corn & beans tossed in chilli paste, tomato ketchup flavoured with chopped garlic.",185,"Veg, Chilli"
+TANGLED & TASTY,RICE,MIXED SCHEZWAN RICE,"Rice with carrot, beans, american corn & dry chilli tossed in spicy schezwan pepper, chilli sauce and tomato sauce.",265,"Non-veg, Chilli"
+TANGLED & TASTY,RICE,CHICKEN SCHEZWAN RICE,"Rice with carrot, beans, american corn & dry chilli tossed in spicy schezwan pepper, chilli sauce and tomato sauce.",235,"Non-veg, Chilli"
+TANGLED & TASTY,RICE,VEG SCHEZWAN RICE,"Rice with carrot, beans, american corn & dry chilli tossed in spicy schezwan pepper, chilli sauce and tomato sauce.",185,"Veg, Chilli"
+TANGLED & TASTY,NOODLES,MIXED HAKKA NOODLES,"Wok-tossed noodles with vegetables such as cabbage, carrot, capsicum stir fried in flavorful chinese seasoning.",235,Veg
+TANGLED & TASTY,NOODLES,CHICKEN HAKKA NOODLES,"Wok-tossed noodles with vegetables such as cabbage, carrot, capsicum stir fried in flavorful chinese seasoning.",205,Non-veg
+TANGLED & TASTY,NOODLES,VEG HAKKA NOODLES,"Wok-tossed noodles with vegetables such as cabbage, carrot, capsicum stir fried in flavorful chinese seasoning.",155,Veg
+TANGLED & TASTY,NOODLES,MIXED PAN-FRIED NOODLE,"Pan-fried noodles served with diced vegetables in oyster sauce, dark soy and flavoured with wine (non-alcoholic).",265,Non-veg
+TANGLED & TASTY,NOODLES,CHICKEN PAN-FRIED NOODLE,"Pan-fried noodles served with diced vegetables in oyster sauce, dark soy and flavoured with wine (non-alcoholic).",235,Non-veg
+TANGLED & TASTY,NOODLES,VEG PAN-FRIED NOODLE,"Pan-fried noodles served with diced vegetables in oyster sauce, dark soy and flavoured with wine (non-alcoholic).",185,Veg
+TANGLED & TASTY,NOODLES,MIXED CHILLI GARLIC NOODLE,"Noodles, capsicum in garlic-chili paste, tomato ketchup flavored with chopped garlic, mildly spicy.",255,"Non-veg, Chilli"
+TANGLED & TASTY,NOODLES,CHICKEN CHILLI GARLIC NOODLE,"Noodles, capsicum in garlic-chili paste, tomato ketchup flavored with chopped garlic, mildly spicy.",225,"Non-veg, Chilli"
+TANGLED & TASTY,NOODLES,VEG CHILLI GARLIC NOODLE,"Noodles, capsicum in garlic-chili paste, tomato ketchup flavored with chopped garlic, mildly spicy.",175,"Veg, Chilli"
+TANGLED & TASTY,NOODLES,MIXED SCHEZWAN NOODLE,"Noodles with carrot, cabbage, capsicum & dry red chilli in spicy Schezwan and house chili sauce.",255,"Non-veg, Chilli"
+TANGLED & TASTY,NOODLES,CHICKEN SCHEZWAN NOODLE,"Noodles with carrot, cabbage, capsicum & dry red chilli in spicy Schezwan and house chili sauce.",225,"Non-veg, Chilli"
+TANGLED & TASTY,NOODLES,VEG SCHEZWAN NOODLE,"Noodles with carrot, cabbage, capsicum & dry red chilli in spicy Schezwan and house chili sauce.",175,"Veg, Chilli"
+TANGLED & TASTY,NOODLES,MIXED CANTONESE GRAVY NOODLE,Tender boiled noodles in savory white sauce with assorted vegetables.,265,Non-veg
+TANGLED & TASTY,NOODLES,CHICKEN CANTONESE GRAVY NOODLE,Tender boiled noodles in savory white sauce with assorted vegetables.,235,Non-veg
+TANGLED & TASTY,NOODLES,VEG CANTONESE GRAVY NOODLE,Tender boiled noodles in savory white sauce with assorted vegetables.,185,veg
+WOK WONDERS,NON VEG GRAVY,CHICKEN MANCHURIAN,"Coated sliced boneless chunks tossed in dark soya, chilli sauce and oyster sauce.",299,Non-veg
+WOK WONDERS,NON VEG GRAVY,FISH MANCHURIAN,"Coated sliced boneless chunks tossed in dark soya, chilli sauce and oyster sauce.",369,Non-veg
+WOK WONDERS,NON VEG GRAVY,PRAWN MANCHURIAN,"Coated sliced boneless chunks tossed in dark soya, chilli sauce and oyster sauce.",409,Non-veg
+WOK WONDERS,NON VEG GRAVY,CHICKEN CHILLI,"Coated boneless chunks tossed in garlic, onion, chillies, soy sauce, tomato and chilli sauce.",289,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,FISH CHILLI,"Coated boneless chunks tossed in garlic, onion, chillies, soy sauce, tomato and chilli sauce.",359,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,PRAWN CHILLI,"Coated boneless chunks tossed in garlic, onion, chillies, soy sauce, tomato and chilli sauce.",399,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,CHICKEN HOT GARLIC,"Coated boneless chunks tossed in sauteed garlic, tomato sauce and house chilli sauce.",305,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,FISH HOT GARLIC,"Coated boneless chunks tossed in sauteed garlic, tomato sauce and house chilli sauce.",375,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,PRAWN HOT GARLIC,"Coated boneless chunks tossed in sauteed garlic, tomato sauce and house chilli sauce.",415,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,CHICKEN HUNAN,Batter fried boneless chunks in savoury and mildly spicy cantonese gravy garnish with chili flakes.,299,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,FISH HUNAN,Batter fried boneless chunks in savoury and mildly spicy cantonese gravy garnish with chili flakes.,369,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,PRAWN HUNAN,Batter fried boneless chunks in savoury and mildly spicy cantonese gravy garnish with chili flakes.,409,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,CHICKEN SCHEZWAN,"Coated cubed boneless chunks tossed in oyster sauce, light soya, flavoured with wine (non-alcoholic) and schezwan pepper.",305,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,FISH SCHEZWAN,"Coated cubed boneless chunks tossed in oyster sauce, light soya, flavoured with wine (non-alcoholic) and schezwan pepper.",375,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,PRAWN SCHEZWAN,"Coated cubed boneless chunks tossed in oyster sauce, light soya, flavoured with wine (non-alcoholic) and schezwan pepper.",415,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,CHICKEN KUNGPAO,"Diced bell pepper, cashews, roasted chilies flavoured with hoisin chili sauces, sesame oil, and non-alcoholic wine.",325,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,FISH KUNGPAO,"Diced bell pepper, cashews, roasted chilies flavoured with hoisin chili sauces, sesame oil, and non-alcoholic wine.",395,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,PRAWN KUNGPAO,"Diced bell pepper, cashews, roasted chilies flavoured with hoisin chili sauces, sesame oil, and non-alcoholic wine.",435,"Non-veg, Chilli"
+WOK WONDERS,NON VEG GRAVY,CHICKEN SWEET GARLIC,Coated cubed boneless chunks in sweet garlic gravy.,305,Non-veg
+WOK WONDERS,NON VEG GRAVY,FISH SWEET GARLIC,Coated cubed boneless chunks in sweet garlic gravy.,375,Non-veg
+WOK WONDERS,NON VEG GRAVY,PRAWN SWEET GARLIC,Coated cubed boneless chunks in sweet garlic gravy.,415,Non-veg
+WOK WONDERS,NON VEG GRAVY,DRUMS OF PARADISE,Succulent chicken lollipops bathed in a tantalizing sweet and spicy gravy.,335,"Non-veg, Chilli, Studio Special"
+VEGGIE VOYAGE,VEG GRAVY,CHILLI GARLIC BABY CORN & MUSHROOM,"Sauteed garlic, baby corn and button mushroom in tomato and house chilli sauce, flavoured with wine (non-alcoholic).",249,"Veg, Chilli"
+VEGGIE VOYAGE,VEG GRAVY,CHILLI MUSHROOM,"Handpicked mushrooms and bell pepper tossed in chilli paste and tomato sauce, flavoured with wine (non-alcoholic).",265,"Veg, Chilli"
+VEGGIE VOYAGE,VEG GRAVY,VEG MANCHURIAN GRAVY,"Assorted vegetables balls tossed in dark soya, spicy chilli sauce, oyster and tomato sauce.",245,Veg
+VEGGIE VOYAGE,VEG GRAVY,CHILLI PANEER GRAVY,"Crispy battered cottage cheese, capsicum and onion, tossed in chilli and soya gravy.",285,"Veg, Chilli"
+VEGGIE VOYAGE,VEG GRAVY,EXOTIC VEG IN BUTTER GARLIC SAUCE,A symphony of vibrant vegetables tossed in a luscious buttery garlic blend.,255,Veg
+RISTA ROTI KA,INDIAN BREAD,BUTTER TANDOORI (ATTA),"Whole wheat flatbread, tandoor roasted and topped with butter.",40,Veg
+RISTA ROTI KA,INDIAN BREAD,PLAIN TANDOORI (ATTA),"Whole wheat flatbread, roasted in a clay oven.",35,Veg
+RISTA ROTI KA,INDIAN BREAD,MASALA KULCHA,"Potato, green chillies, herbs and assorted spices in a leavened flour dough, clay oven roasted until perfection.",95,"Veg, Chilli"
+RISTA ROTI KA,INDIAN BREAD,MISSI ROTI,"Savoury whole wheat and chickpea flour flatbread, laced with onion, garlic, chopped green chillies and spices.",50,"Veg, Chilli"
+RISTA ROTI KA,INDIAN BREAD,PLAIN NAAN,"Thick and fluffy Indian flatbread, roasted on a clay oven and served warm.",60,Veg
+RISTA ROTI KA,INDIAN BREAD,BUTTER NAAN,Fluffy flatbread tandoor roasted and topped with butter.,70,Veg
+RISTA ROTI KA,INDIAN BREAD,BUTTER GARLIC NAAN,"Chopped garlic in flour dough, roasted in clay oven, glazed with butter.",80,Veg
+RISTA ROTI KA,INDIAN BREAD,LACHHA PARATHA,"Crispy, flakey and layered flour flatbread cooked in clay oven.",80,Veg
+RISTA ROTI KA,INDIAN BREAD,CHEESE KULCHA,"Tandoor-roasted flatbread stuffed with cheese, green chillies, and assorted spices, a flavorful delight.",95,"Veg, Chilli"
+RISTA ROTI KA,INDIAN BREAD,CHEESE CHILLI KEEMA KULCHA,"Fiery keema, melted cheese, chili, embraced by warm, freshly baked kulcha, tantalizing blend.",130,"Non-veg, Chilli"
+KISSA CHAWAL KA,RICE,KASHMIRI PULAO,"Long-grained aromatic rice, laced with a melange of fresh and dry fruits, whole spices and strands of saffron.",215,Veg
+KISSA CHAWAL KA,RICE,BASMATI RICE,,125,Veg
+KISSA CHAWAL KA,RICE,JEERA RICE,"Fluffy basmati rice with ghee, cumin and other aromatic spices, cooked until perfection.",145,Veg
+KISSA CHAWAL KA,RICE,VEG PANEER PULAO,"Cottage cheese, vegetables and rice cooked with aromatic spices and ghee.",195,Veg
+KISSA CHAWAL KA,RICE,MUTTON BIRYANI,"Biryani is made with juicy mutton pieces, cooked dum style in aromatic rice and bhuna spices.",325,Non-veg
+KISSA CHAWAL KA,RICE,CHICKEN BIRYANI,"Fine long grained rice cooked with Indian spices served with chicken(1pc), egg (1pc) & potato.",275,Non-veg
+CRISPY CRUNCHY,PAPAD,ROASTED MASALA PAPAD,"Roasted Indian wafer topped with chopped tomato, onion and green chillies with a hint of spice.",79,"Veg, Chilli"
+CRISPY CRUNCHY,PAPAD,PLAIN ROASTED PAPAD,Classic dry roasted/fried Indian wafer.,49,Veg
+DAL MERI JAAN,CHOICE OF DAL,YELLOW DAL TADKA,Boiled split pigeon peas tempered with garlic cloves and dried red chillies in desi ghee.,159,Veg
+DAL MERI JAAN,CHOICE OF DAL,DAL FRY,"Boiled pigeon peas tempered with a spicy tomato, onion and cumin tadka in desi ghee.",149,Veg
+DAL MERI JAAN,CHOICE OF DAL,DAL MAKAHNI,"Traditional Punjabi style split pigeon peas and green gram lentils, slow cooked in a rich, creamy gravy.",225,Veg
+DRESS YOUR FOOD,SALAD,GREEN SALAD,"Delicately sliced cucumber, carrots, tomatoes and onion medley topped with lemon wedges & green chillies.",75,Veg
+DRESS YOUR FOOD,SALAD,ONION SALAD,Freshly sliced onions served with lemon wedges and green chillies.,65,"Veg, Chilli"
+MINTY & CREAMY,RAITA,BOONDI RAITA,"Beaten curd stirred with fried gram floor balls and zesty spices, served best with biryani or pulao.",85,Veg
+MINTY & CREAMY,RAITA,PLAIN CURD,"Smooth, creamy yogurt with a hint of spices.",75,Veg
+MINTY & CREAMY,RAITA,MIX RAITA,"Rich, creamy yogurt, assorted vegetables and ground spices, delicately mixed and served chilled.",85,Veg
+MINTY & CREAMY,RAITA,PINEAPPLE RAITA,"Smooth yogurt, juicy pineapple, mixed spices and herbs, carefully mixed into a sweet and tangy delight.",115,Veg
+CURRIES VEG,PANEER,MATAR PANEER,"Cottage cheese and green peas, cooked in a creamy tomato onion gravy.",255,Veg
+CURRIES VEG,PANEER,PANEER BUTTER MASALA,"Cottage cheese in a rich, creamy, buttery blend of tomato, cashew and exotic spices.",299,Veg
+CURRIES VEG,PANEER,MALAI METHI MATAR PANEER,"Succulent paneer cubes and tender green peas simmered in a rich, creamy fenugreek-infused sauce.",265,Veg
+CURRIES VEG,PANEER,MALAI PANEER KOFTA,Cottage cheese balls cooked in a creamy tomato onion gravy.,275,Veg
+CURRIES VEG,PANEER,PANEER DO PYAZA,"Cottage cheese and onion cubes in a rich, thick gravy of tomato, onion and exotic spices.",289,Veg
+CURRIES VEG,PANEER,KADHAI PANEER,"Succulent cottage cheese, green bell peppers and cubed onion, tossed in a semi dry, vibrant, tangy, spicy gravy.",289,"Veg, Chilli"
+CURRIES VEG,VEG,CHANA MASALA,"Chickpeas cooked with tomato, onion, ginger and assorted Indian spices, in a mildly spicy, rich gravy.",195,Veg
+CURRIES VEG,VEG,SUBZ MAKHAN MASALA,"A medley of vegetables, tomato, onion and handpicked spices in a rich, buttery, aromatic gravy.",235,Veg
+CURRIES VEG,VEG,SUBZ DIWANI HANDI,"A royal medley of seasonal vegetables simmered in a luscious gravy, infused with traditional spices.",245,Veg
+CURRIES VEG,VEG,MUSHROOM BUTTER MASALA,"Delicate button mushrooms cooked in a rich, buttery gravy of tomato, onion, garlic, ginger and zesty spices.",269,Veg
+CURRIES VEG,VEG,KADHAI MUSHROOM,"Tender mushrooms cooked to perfection with aromatic spices, bell peppers, onions, and tomatoes.",275,Veg
+CURRIES VEG,VEG,VEG NAVRATAN KORMA,"Vegetables simmered in a rich, creamy sauce, infused with aromatic spices and garnished with nuts.",255,Veg
+CURRIES VEG,VEG,METHI CORN MALAI,"Sweet corn kernels with fenugreek leaves, in a rich, creamy, spicy tomato onion gravy.",235,Veg
+CURRIES NON VEG,CHICKEN,MURGH TIKKA LABABDAR,"Tandoor grilled boneless chicken with bell pepper in a rich, creamy gravy of tomato, onion, curd, and spices.",365,Non-veg
+CURRIES NON VEG,CHICKEN,MURGH TIKKA MAKHAN MASALA,"Grilled chicken in rich, buttery tomato-onion gravy and aromatic Indian spices.",359,Non-veg
+CURRIES NON VEG,CHICKEN,MURGH DIL BAHAR DO PIYAZA,"Luscious chicken pieces and onion cubes stewed in a rich creamy, aromatic onion based gravy.",295,Non-veg
+CURRIES NON VEG,CHICKEN,MURGH NIZAMI HANDI,"Royal Hyderabadi style chicken in a rich, creamy, nutty gravy.",299,Non-veg
+CURRIES NON VEG,CHICKEN,KADHAI MURGH,"Chicken, cubed capsicum and onion, stirred in a semi dry, deeply flavourful, spicy gravy.",295,"Non-veg, Chilli"
+CURRIES NON VEG,CHICKEN,RASHMI BUTTER MASALA,Creamy chicken in white gravy.,369,Non-veg
+CURRIES NON VEG,CHICKEN,MURGH BHUNA,"Boneless chicken cooked in tangy tomato-onion gravy, spiced with green chilies and aromatic Indian spices.",319,"Non-veg, Chilli"
+CURRIES NON VEG,CHICKEN,MURGH LEG KORMA,"Clay oven roasted chicken leg pieces simmered in a classic, rich, creamy gravy.",429,"Non-veg, Studio Special"
+CURRIES NON VEG,CHICKEN,MURGH KASHA,"Juicy chicken chunks and potato cubes slow cooked in a spicy, flavoursome curry to release the flavours.",275,"Non-veg, Chilli"
+CURRIES NON VEG,CHICKEN,MURGH DA BHARTA,An all time favourite! Chicken cooked to perfection in a rich creamy Arsalan in-house paste.,275,Non-veg
+CURRIES NON VEG,CHICKEN,MURGH RARA,Keema & bone-in chicken simmered in spicy gravy.,325,"Non-veg, Chilli"
+CURRIES NON VEG,MUTTON,MUTTON KASHA,"Succulent mutton pieces, slow cooked in a spicy gravy over a low heat.",485,"Non-veg, Chilli"
+CURRIES NON VEG,MUTTON,MUTTON ROGAN JOSH,"Tender morsels of mutton cooked in a flavorful blend of spices, yogurt, and tomatoes.",505,"Non-veg, Studio Special"
+CURRIES NON VEG,MUTTON,MUTTON RARA,Combines the mutton pieces along with the mutton keema tossed in a thick gravy.,545,"Non-veg, Studio Special"
+CURRIES NON VEG,FISH & PRAWN,BONELESS FISH TIKKA MASALA,,385,Non-veg
+CURRIES NON VEG,FISH & PRAWN,PRAWN MALAI CURRY,,475,Non-veg
+THANDA THANDA CREAM CREAM,ICE CREAM,DOUBLE SCOOP ICE CREAM,Choice of available flavours.,99,"Veg, Kid's Loves It"
+THANDA THANDA CREAM CREAM,CHEESE CAKE,BLUEBERRY CHEESECAKE,Delicious cream cheese and blueberries toppings make our blueberry cheesecake exceptional.,249,Veg
+THANDA THANDA CREAM CREAM,CHEESE CAKE,NEW YORK CHEESECAKE,cheesecake is the perfect combination of cream cheese and a crunchy cracker crust.,235,Veg
+MITHA HO JAYE,HOT & COLD,HOT GULAB JAMUN,"Melt in mouth mawa dumplings, deep fried and soaked in rose-flavoured golden syrup. *Add ice cream per scoop 45.",75,"Veg, Kid's Loves It"
+MITHA HO JAYE,HOT & COLD,HOT BROWNIE,"Moist, rich, baked chocolate dessert sinfully topped with delectable chocolate sauce.",89,"Veg, Kid's Loves It"
+JAANE SE PEHLE,DESSERT,OREO BLAST DELIGHT,"Decadent, chocolaty dessert with an oreo crust, chocolate cream, whipped cream, oreo bites.",149,"Veg, Kid's Loves It"
+JAANE SE PEHLE,DESSERT,TUTTI FRUTTI DELIGHT,"Rich, creamy fresh dessert, with the pleasant surprise of fruits in every bite.",175,Veg
+JAANE SE PEHLE,DESSERT,STUDIO TRIPLE DELIGHT,"Soft, velvety dessert with chocolate, vanilla, butter scotch layers, rich whipped cream filling.",199,"Veg, Studio Special"
